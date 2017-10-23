@@ -1,0 +1,6 @@
+{
+  "name": "fxf",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
